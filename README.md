@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew Scott!
+My name is Matthew Scott![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
 Bachelors Candidate in Computer Science Engineering
@@ -39,7 +39,6 @@ Matthew Scott Hernandez (He/Him) is a Mexican-American First Generation Bachelor
 <p align="left"> <a href="https://www.github.com/onematthewscott" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matthdz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/onematthewscott" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/onematthewscott"><img src="https://github-readme-stats.vercel.app/api?username=onematthewscott&show_icons=true&hide=stars,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="onematthewscott's GitHub stats" /></a>
