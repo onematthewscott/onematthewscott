@@ -6,7 +6,7 @@
    </a>
 </h1>
 
-<h3 align="center">A user experience architect and UI engineer based in Michigan, USA. 🇺🇸</h3>
+<h3 align="center">An experience architect and UI engineer based in Michigan, USA. 🇺🇸</h3>
 
 <br/>
 
