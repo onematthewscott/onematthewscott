@@ -6,25 +6,24 @@
    </a>
 </h1>
 
-<h3 align="center">An experience architect and UI engineer based in Michigan, USA. 🇺🇸</h3>
+<h3 align="center">An experience architect based in the Detroit Metropolitan Area.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently researching **MMLLM's Capabilities in Mulitlingual Settings & Cultural Slang-use**
+ 🥳 Recently graduated from Michigan State U. 
  
- 🌱 I’m currently learning **UX Research, Using Python in Quantitative Research Settings, and UI Frameworks**
+ 🌱 On a mission to complete 10 web & ux-development projects within six months (jan - jun). 
 
-💬 Ask me about **AGI, My Research, My Interests or anything [here](https://matthewscott.io/about)**
+ 📌 Incoming Experience Designer @ U.S. Bank
+
+💬 Message me [here](https://matthewscott.io/contact)**
 
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:hello@matthewscott.io">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://linkedin.com/in/matthdz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
