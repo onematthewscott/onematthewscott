@@ -18,7 +18,7 @@
 
  📌 Incoming Experience Designer @ U.S. Bank
 
-💬 Message me [here](https://matthewscott.io/contact)**
+💬 Message me [here](https://matthewscott.io/contact)
 
 
  </div>
