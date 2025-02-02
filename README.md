@@ -11,12 +11,8 @@
 <br/>
 
 <div align="center">
- 
- 🥳 Recently graduated from Michigan State U. 
- 
+  
  🌱 On a mission to complete 10 web & ux-development projects within six months (jan - jun). 
-
- 📌 Incoming Experience Designer @ U.S. Bank
 
 💬 Message me [here](https://matthewscott.io/contact)
 
