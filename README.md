@@ -12,9 +12,9 @@
 
 <div align="center">
   
- 🌱 On a mission to complete 10 web & ux-development projects within six months (jan - jun). 
+ Currently leading EYEUNO - a UX Consulting Collective helping startups build accessible, user-friendly products. 
 
-💬 Message me [here](https://matthewscott.io/contact)
+💬 Learn about me [here](https://matthewscott.io/)
 
 
  </div>
